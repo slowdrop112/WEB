@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grigore Cristian",
+  "license": "ISC",
+  "description": "Avem haine de toate tipurile, de la branduri des intalnite precum nike, adidas pana la branduri de lux precum LV, Armani, Maison Margiela, livram in toata tara."
+}
